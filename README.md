@@ -2,7 +2,7 @@
 another repository
 
 
-My name is Pooja.
+My name is Pooja Patel.
 I go to Rutgers University.
 I am currently a Senior.
 My Major is Information Systems.
