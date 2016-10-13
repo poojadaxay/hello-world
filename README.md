@@ -9,3 +9,4 @@ My Major is Information Systems.
 My Minor is Math.
 I am currently taking Web Development.
 My favoirte color is purple.
+I love Italian food.
